@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div className={"main-footer-wrap"}>
+        <div className={"main-footer-wrap"} style={{borderBottom: 'palevioletred 4px solid'}}>
             <footer className={"main-footer"}>
                 <div className={"main-footer-items-wrap"}>
                     <p>&copy; 2019 Laguna Labs&trade;</p>
@@ -10,7 +10,6 @@ const Footer = () => {
                 </div>
             </footer>
         </div>
-
     )
 };
 

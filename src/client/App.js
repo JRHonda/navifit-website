@@ -2,6 +2,7 @@ import React from 'react';
 import Background from './Background';
 import Footer from './Footer';
 import './App.css';
+import Content from "./Content";
 
 class App extends React.Component {
     state = {}
@@ -14,6 +15,7 @@ class App extends React.Component {
                 <div className={"HeaderAndContent-wrap"}>
                     <div className={"main-background"}>
                         <Background />
+                        <Content />
                     </div>
                 </div>
 

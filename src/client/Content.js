@@ -6,8 +6,10 @@ class Content extends React.Component {
     render() {
         return (
             <div>
-                Content
+                <img src={"Group 190.svg"} alt={"AW"} />
             </div>
         )
     }
 }
+
+export default Content;
