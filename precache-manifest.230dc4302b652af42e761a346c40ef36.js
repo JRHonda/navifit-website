@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a00669e4fe2e3186c7fcfc88e6e2938f",
+    "revision": "16017f9d8aeac8708a57c43185f79a81",
     "url": "/navifit-website/index.html"
   },
   {
-    "revision": "c4e3fc319b7791154388",
+    "revision": "06d673185f92f6a25d68",
     "url": "/navifit-website/static/css/main.9a880b77.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/navifit-website/static/js/2.bd614364.chunk.js"
   },
   {
-    "revision": "c4e3fc319b7791154388",
-    "url": "/navifit-website/static/js/main.1bee53be.chunk.js"
+    "revision": "06d673185f92f6a25d68",
+    "url": "/navifit-website/static/js/main.546e1791.chunk.js"
   },
   {
     "revision": "a172eff5f460b25f235d",
