@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.84aa084c.chunk.css",
-    "main.js": "/static/js/main.81e53afb.chunk.js",
-    "main.js.map": "/static/js/main.81e53afb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.58cad731.js",
-    "runtime-main.js.map": "/static/js/runtime-main.58cad731.js.map",
-    "static/js/2.bd614364.chunk.js": "/static/js/2.bd614364.chunk.js",
-    "static/js/2.bd614364.chunk.js.map": "/static/js/2.bd614364.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e0f6ce6a520eecc2925559bd9103df68.js": "/precache-manifest.e0f6ce6a520eecc2925559bd9103df68.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.84aa084c.chunk.css.map": "/static/css/main.84aa084c.chunk.css.map"
+    "main.css": "/navifit-website/static/css/main.84aa084c.chunk.css",
+    "main.js": "/navifit-website/static/js/main.81e53afb.chunk.js",
+    "main.js.map": "/navifit-website/static/js/main.81e53afb.chunk.js.map",
+    "runtime-main.js": "/navifit-website/static/js/runtime-main.f7b3258a.js",
+    "runtime-main.js.map": "/navifit-website/static/js/runtime-main.f7b3258a.js.map",
+    "static/js/2.bd614364.chunk.js": "/navifit-website/static/js/2.bd614364.chunk.js",
+    "static/js/2.bd614364.chunk.js.map": "/navifit-website/static/js/2.bd614364.chunk.js.map",
+    "index.html": "/navifit-website/index.html",
+    "precache-manifest.359eed512e846c39d17bda8026e7100b.js": "/navifit-website/precache-manifest.359eed512e846c39d17bda8026e7100b.js",
+    "service-worker.js": "/navifit-website/service-worker.js",
+    "static/css/main.84aa084c.chunk.css.map": "/navifit-website/static/css/main.84aa084c.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.58cad731.js",
+    "static/js/runtime-main.f7b3258a.js",
     "static/js/2.bd614364.chunk.js",
     "static/css/main.84aa084c.chunk.css",
     "static/js/main.81e53afb.chunk.js"
