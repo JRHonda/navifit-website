@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/navifit-website/precache-manifest.3b13374558fdc43f40d1ca72ed27455b.js"
+  "/navifit-website/precache-manifest.d602ef3709d93a1251adad566ddbea64.js"
 );
 
 self.addEventListener('message', (event) => {
